@@ -1,0 +1,26 @@
+{
+  "name": "treehouse-express-basics",
+  "version": "1.0.0",
+  "description": "express class",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsaiga86/treehouse-express-basics.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "tetsaiga86",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsaiga86/treehouse-express-basics/issues"
+  },
+  "homepage": "https://github.com/tetsaiga86/treehouse-express-basics#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "src/app.js"
+}
